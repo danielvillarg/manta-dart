@@ -5,7 +5,7 @@ author: Appia Systems Limited
 homepage: http://appia.co
 documentation: https://appiapay.github.io/manta-python
 environment:
-  sdk: ">=2.1.0 <=3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   mqtt_client: ^9.0.0
@@ -15,7 +15,7 @@ dependencies:
   logging: ^1.0.0
   pointycastle: ^3.0.1
   rsa_pkcs:
-    git: https://github.com/amaurel/rsa_pkcs.git
+    git: https://github.com/danielvillarg/rsa_pkcs.git
   async: ^2.2.0
 
 dev_dependencies:

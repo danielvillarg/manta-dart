@@ -29,10 +29,10 @@ packages:
     dependency: transitive
     description:
       name: asn1lib
-      sha256: f4bf427060dd9cf67044d8370d4afdd244c7fdb8a85a868e07d2b7e01c5291d9
+      sha256: b74e3842a52c61f8819a1ec8444b4de5419b41a7465e69d4aa681445377398b0
       url: "https://pub.dev"
     source: hosted
-    version: "0.8.1"
+    version: "1.4.1"
   async:
     dependency: "direct main"
     description:
@@ -406,10 +406,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: a7e208881a8fdceab580a29160d1819f9b773b2a
-      url: "https://github.com/amaurel/rsa_pkcs.git"
+      resolved-ref: be45e65bbd73ed6c517822cebf6fe399d059a08a
+      url: "https://github.com/danielvillarg/rsa_pkcs.git"
     source: git
-    version: "1.1.4"
+    version: "2.1.0"
   shelf:
     dependency: transitive
     description:
